@@ -1,7 +1,5 @@
 # interpreter-part-2
-For part 2, the grammar of part1 is extended with Let, Lookup Call
-
-
+For part 2, the grammar of part1 is extended with Let, Lookup, Begin coms End,Fun name name coms End, and Call
 
 
 Interpreter-part 1 
